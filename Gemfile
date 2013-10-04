@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-gemspec
+ruby '1.9.3', :engine => 'jruby'
 
-gem "rjb"
-gem "rake"
-gem "treebank"
+gemspec
