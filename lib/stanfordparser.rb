@@ -1,5 +1,3 @@
-require 'rubygems'
-
 require "pathname"
 require "rjb"
 require "singleton"
